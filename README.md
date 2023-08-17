@@ -1,16 +1,12 @@
-### Hi there 👋
+### WELCOME TO MY PAGE 👋👋👋
+My name is Hung Thai. I am an M.Sc. in Developer, With major in front-end programming. I am interested in the following topics: Deep Learning in Front-end ReactJs and Learn more about the Back-end. Reinforcement Learning.<br>
+## 📫 How to reach me: 
 
-<!--
-**hungthai56/hungthai56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/hungthai56/Candidates/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hungthai56&repo=Candidates&theme=radical" />
+</a>    
+<a href="https://github.com/hungthai56/Recruitment-Proposal/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hungthai56&repo=Recruitment-Proposal&theme=merko" />
+</a>
