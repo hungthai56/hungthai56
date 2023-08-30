@@ -5,8 +5,16 @@ My name is Hung Thai. I am an Developer, With major in front-end programming. I 
 <a href="https://github.com/hungthai56/Candidates/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hungthai56&repo=Candidates&theme=radical" />
-</a>    
+</a>  
+<a href="https://github.com/hungthai56/recruitment/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hungthai56&repo=recruitment&theme=radical" />
+</a>
 <a href="https://github.com/hungthai56/Recruitment-Proposal/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hungthai56&repo=Recruitment-Proposal&theme=merko" />
+</a>
+<a href="https://github.com/hungthai56/daihockinhtehue/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hungthai56&repo=daihockinhtehue&theme=merko" />
 </a>
